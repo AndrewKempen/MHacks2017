@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Decode</string>
+    <string-array name="sourceLanguage_array">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <item>Arabic</item>
+        <item>Portuguese</item>
+        <item>Korean</item>
+        <item>Russian</item>
+        <item>German</item>
+    </string-array>
+    <string name="title_activity_translate">TranslateActivity</string>
+</resources>
+
+
+<!--var languages = ["English", "Spanish", "French", "Arabic", "Portuguese", "Korean", "Russian", "German"]    // Select language
+    let langCode = ["en_US", "es", "fr_FR", "ar", "pt_PT", "ko_KR", "ru_RU", "de_DE"]-->
